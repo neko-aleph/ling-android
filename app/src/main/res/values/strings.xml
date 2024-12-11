@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ling</string>
+    <string name="arrow_right_content_desc">Show contents</string>
+    <string name="plus_content_desc">Add</string>
+    <string name="learn">Учить</string>
+    <string name="add">Добавить</string>
+    <string name="empty">Пусто</string>
+    <string name="words">Слова</string>
+    <string name="correct">Правильно</string>
+    <string name="incorrect">Ошибка</string>
+    <string name="next">Далее</string>
+    <string name="finish">Завершить</string>
+    <string name="complete">Все слова изучены</string>
+</resources>
